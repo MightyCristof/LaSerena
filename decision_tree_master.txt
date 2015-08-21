@@ -1,39 +1,5 @@
 Q1. Is the object a smooth galaxy, a galaxy with features/disk or a star? 3 responses
 	220 - t01_smooth_or_features_a01_smooth_weighted_fraction
-	
-	84 - deVRad_r
-	89 - deVRadErr_r
-	168 - psffwhm_r
-	94 - deVAB_r
-	99 - deVABErr_r
-	29 - petroRad_r
-	34 - petroRadErr_r
-	39 - petroR50_r
-	44 - petroR50Err_r
-	
-
-Q2. Is it edge-on? 2 responses
-	238 - t02_edgeon_a04_yes_weighted_fraction
-	
-	199 - nEdge
-	59 - mE1_r
-	69 - mE1E1Err_r
-	64 - mE2_r
-	79 - mE2E2Err_r
-	
-	244 - t02_edgeon_a05_no_weighted_fraction
-	
-	19 - petroMag_r
-	24 - petroMagErr_r
-	29 - petroRad_r
-	34 - petroRadErr_r
-	
-
-
-Q3. Is there a bar? 2 responses
-
-Q1. Is the object a smooth galaxy, a galaxy with features/disk or a star? 3 responses
-	220 - t01_smooth_or_features_a01_smooth_weighted_fraction
 		84 - deVRad_r
 		89 - deVRadErr_r
 		94 - deVAB_r
