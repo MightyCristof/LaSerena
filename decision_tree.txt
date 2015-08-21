@@ -57,12 +57,25 @@ Q7. How round is the smooth galaxy? 3 responses
 
 Q8. What is the odd feature? 7 responses
 	328 - t08_odd_feature_a19_ring_weighted_fraction
+		19 - petroMag_r
+		189 - dered_r
 	334 - t08_odd_feature_a20_lens_or_arc_weighted_fraction
+		6 - nChild
 	340 - t08_odd_feature_a21_disturbed_weighted_fraction
+		168 - psffwhm_r
 	346 - t08_odd_feature_a22_irregular_weighted_fraction
+		52 - petroR90Err_u
+		53 - petroR90Err_g
+		54 - petroR90Err_r
 	352 - t08_odd_feature_a23_other_weighted_fraction
+		8 - clean
 	358 - t08_odd_feature_a24_merger_weighted_fraction
+		6 - nChild
+		
 	364 - t08_odd_feature_a38_dust_lane_weighted_fraction
+		161 - extinction_u
+		162 - extinction_g
+		163 - extinction_r
 
 Q9. What shape is the bulge in the edge-on galaxy? 3 responses
 	370 - t09_bulge_shape_a25_rounded_weighted_fraction
