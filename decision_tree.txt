@@ -1,0 +1,28 @@
+Q1. Is the object a smooth galaxy, a galaxy with features/disk or a star? 3 responses
+	220 - t01_smooth_or_features_a01_smooth_weighted_fraction
+	
+	83 - deVRad_g
+	88 - deVRadErr_g
+	
+	
+
+Q2. Is it edge-on? 2 responses
+
+Q3. Is there a bar? 2 responses
+
+Q4. Is there a spiral pattern? 2 responses
+
+Q5. How prominent is the central bulge? 4 responses
+
+Q6. Is there anything "odd" about the galaxy? 2 responses
+
+Q7. How round is the smooth galaxy? 3 responses
+
+Q8. What is the odd feature? 7 responses
+
+Q9. What shape is the bulge in the edge-on galaxy? 3 responses
+
+Q10. How tightly wound are the spiral arms? 3 responses
+
+Q11. How many spiral arms are there? 6 responses
+
