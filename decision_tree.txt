@@ -1,9 +1,15 @@
 Q1. Is the object a smooth galaxy, a galaxy with features/disk or a star? 3 responses
 	220 - t01_smooth_or_features_a01_smooth_weighted_fraction
 	
-	83 - deVRad_g
-	88 - deVRadErr_g
-	
+	84 - deVRad_r
+	89 - deVRadErr_r
+	168 - psffwhm_r
+	94 - deVAB_r
+	99 - deVABErr_r
+	29 - petroRad_r
+	34 - petroRadErr_r
+	39 - petroR50_r
+	44 - petroR50Err_r
 	
 
 Q2. Is it edge-on? 2 responses
