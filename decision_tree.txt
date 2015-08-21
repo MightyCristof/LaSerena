@@ -1,20 +1,29 @@
 Q1. Is the object a smooth galaxy, a galaxy with features/disk or a star? 3 responses
 	220 - t01_smooth_or_features_a01_smooth_weighted_fraction
-	
-	84 - deVRad_r
-	89 - deVRadErr_r
-	168 - psffwhm_r
-	94 - deVAB_r
-	99 - deVABErr_r
-	29 - petroRad_r
-	34 - petroRadErr_r
-	39 - petroR50_r
-	44 - petroR50Err_r
-	
+		84 - deVRad_r
+		89 - deVRadErr_r
+		94 - deVAB_r
+		99 - deVABErr_r
+		129 - lnLExp_r
+	226 - t01_smooth_or_features_a02_features_or_disk_weighted_fraction
+		6 - nChild	
+		134 - lnLDeV_r
+		168 - psffwhm_r
+	232 - t01_smooth_or_features_a03_star_or_artifact_weighted_fraction
+		7 - type
+		9 - probPSF
+		124 - lnLStar_r
 
 Q2. Is it edge-on? 2 responses
+	
+
 
 Q3. Is there a bar? 2 responses
+	250 - t03_bar_a06_bar_weighted_fraction
+		134 - lnLDeV_r
+	254 - t03_bar_a07_no_bar_weight
+		134 - lnLDeV_r
+
 
 Q4. Is there a spiral pattern? 2 responses
 
@@ -27,8 +36,16 @@ Q7. How round is the smooth galaxy? 3 responses
 Q8. What is the odd feature? 7 responses
 
 Q9. What shape is the bulge in the edge-on galaxy? 3 responses
-
+	370 - t09_bulge_shape_a25_rounded_weighted_fraction
+		104 - expRad_r
+		109 - expRadErr_r
 Q10. How tightly wound are the spiral arms? 3 responses
 
 Q11. How many spiral arms are there? 6 responses
 
+
+
+		29 - petroRad_r
+		34 - petroRadErr_r
+		39 - petroR50_r
+		44 - petroR50Err_r
