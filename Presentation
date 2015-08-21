@@ -1,0 +1,33 @@
+Automated Classification of the Shapes of Galaxies
+
+Names
+  Chris Carroll, 
+  Jorge Martinez, , Universidad de Chile 
+  Katherine Montenegro, Undergraduate Astronomy, Universidad Andrés Bello
+  Jaime Valenzuela, Informatic Engineering , Universidad Austral 
+
+Galaxy Zoo 2 is a crowd­sourced galaxy morphology labeling effort that asks different questions to the human annotators and 
+creates 37 different probabilities based on their response. Students will download classified galaxies from Galaxy Zoo 2 (GZ2) 
+and will cross­match the Galaxy Zoo 2 dataset to the original SDSS data and download additional galaxy properties for each 
+galaxy. They will then train a regression model for the 37 morphology probabilities using different parameters. How well does 
+your regression model work?
+
+Requires: SQL, Machine Learning, Advanced Statistics, VO/Archives, Visualization
+
+To relate the work process...
+
+
+1. How did your group decide which scientific project? How did your group balance the competing (but also complementary)
+interest of astronomy and data science?
+
+2. During your project effort, which componentes involved the most cooperation among the team members? Which components required
+the most effort? Which components could be done through individual (not cooperative) efforts? What were the most frustating moments
+and what were the most rewarding?
+
+3. What was the scientific initial goal of the project? What was the final scientific result? Did your group change your scientific
+goals along the way?
+
+4. What limits in your knowledge or tools (software) did you reach which prevented your group from achieving your initial goals?
+
+5. Is there more to be done on your project?
+
